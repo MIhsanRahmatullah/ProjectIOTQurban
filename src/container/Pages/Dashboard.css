@@ -1,0 +1,41 @@
+.red{
+    background-color: hsl(0, 100%, 90%);
+}
+.green{
+    background-color: hsl(120, 100%, 80%);
+}
+.ant-table-thead > tr > th{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    background-color: #001529;
+}
+.ant-table table{
+    font-weight: 450;
+    font-size: medium;
+    text-align: center;
+    color: black;
+    cursor: pointer;
+}
+.ant-drawer-header{
+    background-color: #001529;
+}
+.ant-drawer-title{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    cursor: pointer;
+}
+.ant-drawer-title:hover{
+    color: #fff566;
+}
+.ant-drawer-close{
+    color: white;
+}
+.ant-drawer-close:hover{
+    color: #fff566;
+}
+.td.ant-table-column-sort{
+    background-color: gray;
+}
